@@ -1,5 +1,5 @@
 # FastGeo-API (Forked from @rafsaf)
-
+![api-example](./screenshot.png)
 
 - [async FastAPI + PostgreSQL](#minimal-async-fastapi--postgresql-template)
   - [Requirements](#features)
